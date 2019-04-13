@@ -1,0 +1,193 @@
+html,body{
+  margin:0;
+  padding:0;
+  font-family: 'Roboto', sans-serif;
+}
+
+.bandeau{
+  height: 2.5em;
+  background-color: #6B0C22;
+}
+.bandeau a{
+  text-decoration: none;
+  color:white;
+  padding-right: 90px;
+
+}
+.monCompte{
+position: relative;
+top:50%;
+transform: translateY(-50%);
+
+    text-align:right;
+}
+#logo img{
+  width: 250px;
+  height: auto;
+  padding-left: 100px;
+  padding-top: 40px;
+  float:left;
+}
+.nav-bar{
+  padding-top: 50px;
+  padding-right: 90px;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+
+}
+
+li {
+  float: right;
+}
+
+li a, .dropbtn {
+  font-size: 1.5em;
+  display: inline-block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+
+  -webkit-transition: all 0.8s;
+-o-transition: all 0.8s;
+transition: all 0.8s;
+}
+
+
+li a:hover, .dropdown:hover .dropbtn {
+color: #6B0C22;
+
+
+}
+
+li.dropdown {
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+.page{
+border: 1px solid black;
+margin: 100px 100px 0px 100px;
+padding: 0px 0px 1000px 0px;
+
+}
+.user{
+  display: flex;
+  justify-content: center;
+  border: 2px solid black;
+  padding: 1.2em;
+  margin:-5em -1em -1em -1em;
+  background-color: #6B0C22;
+}
+.user a{
+  padding: 0.2em;
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+  transition: color 0.3s;
+  position: relative;
+  bottom: -0.2em;
+}
+.user a:hover{
+  color: #708090;
+  opacity: 0.5;
+}
+.img{
+  width: 3em;
+  position: relative;
+  top: -0.5em;
+  padding-bottom: 0.2em;
+}
+.menu{
+  text-align: center;
+  margin-top: 4em;
+}
+
+.main #stick{
+  border: 1px solid black;
+  margin-top: 14em;
+}
+
+/** BOOK **/
+input{
+  margin-top: 2em;
+  margin-left: 2em;
+}
+.container img{
+    width: 15em;
+    border: 1px solid black;
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+.container {
+  margin-top: 3em;
+}
+.container .well{
+  width: 25em;
+}
+form{
+  display: block;
+  margin-left: 5em;
+  margin-right: auto
+}
+.well > p{
+  text-align: center;
+  font-weight: bold;
+  font-size: 1.5em;
+  color: blue;
+}
+.row > .well{
+  margin: 0 3em 0 3em;
+}
+
+.row{
+  margin-left: 6em;
+}
+#book-form{
+  margin-left: 28em;
+}
+.hour-picker{
+  position: relative;
+  top: -2em;
+  right: -7em;
+}
+.booking-picker{
+  font-weight: bold;
+  position: relative;
+  top: 3.5em;
+  right: -6em;
+}
+#date-hour{
+  background-color: #FFEBCD;
+}
+#book-form .btn{
+  position: relative;
+  margin-bottom: 4em;
+  bottom: -4em;
+  left: -17em;
+}

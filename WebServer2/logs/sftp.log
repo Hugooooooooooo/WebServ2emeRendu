@@ -1,0 +1,461 @@
+Apr 10 15:02:32 10.71.50.0 u96501126 Connection from 10.71.50.0 port 39826 on 82.165.83.168 port 22
+Apr 10 15:02:34 10.71.50.0 u96501126 Accepted password for u96501126 from 10.71.50.0 port 39826 ssh2
+Apr 10 15:02:34 10.71.50.0 u96501126 Starting session: subsystem 'sftp' for u96501126 from 10.71.50.0 port 39826
+Apr 10 15:02:34 10.71.50.0 u96501126 session opened for local user u96501126 from [10.71.50.0]
+Apr 10 15:02:53 10.71.50.0 u96501126 Connection from 10.71.50.0 port 13912 on 82.165.83.168 port 22
+Apr 10 15:02:53 10.71.50.0 u96501126 Accepted password for u96501126 from 10.71.50.0 port 13912 ssh2
+Apr 10 15:02:53 10.71.50.0 u96501126 Connection from 10.71.50.0 port 13910 on 82.165.83.168 port 22
+Apr 10 15:02:53 10.71.50.0 u96501126 Accepted password for u96501126 from 10.71.50.0 port 13910 ssh2
+Apr 10 15:02:53 10.71.50.0 u96501126 Starting session: subsystem 'sftp' for u96501126 from 10.71.50.0 port 13912
+Apr 10 15:02:53 10.71.50.0 u96501126 Starting session: subsystem 'sftp' for u96501126 from 10.71.50.0 port 13910
+Apr 10 15:02:53 10.71.50.0 u96501126 session opened for local user u96501126 from [10.71.50.0]
+Apr 10 15:02:53 10.71.50.0 u96501126 session opened for local user u96501126 from [10.71.50.0]
+Apr 10 15:02:53 10.71.50.0 u96501126 open "/logo.png" flags READ mode 0666
+Apr 10 15:02:53 10.71.50.0 u96501126 open "/index.php" flags READ mode 0666
+Apr 10 15:02:53 10.71.50.0 u96501126 close "/index.php" bytes read 1385 written 0
+Apr 10 15:02:53 10.71.50.0 u96501126 [10.71.50.0|get|0|1385|0|0|0|2f696e6465782e706870|]
+Apr 10 15:02:53 10.71.50.0 u96501126 close "/logo.png" bytes read 11151 written 0
+Apr 10 15:02:53 10.71.50.0 u96501126 [10.71.50.0|get|0|11151|0|0|0|2f6c6f676f2e706e67|]
+Apr 10 15:02:53 10.71.50.0 u96501126 open "/controllers/controller.php" flags READ mode 0666
+Apr 10 15:02:53 10.71.50.0 u96501126 open "/css/styleEdt.css" flags READ mode 0666
+Apr 10 15:02:54 10.71.50.0 u96501126 close "/controllers/controller.php" bytes read 2304 written 0
+Apr 10 15:02:54 10.71.50.0 u96501126 [10.71.50.0|get|1|2304|0|0|0|2f636f6e74726f6c6c6572732f636f6e74726f6c6c65722e706870|]
+Apr 10 15:02:54 10.71.50.0 u96501126 close "/css/styleEdt.css" bytes read 3602 written 0
+Apr 10 15:02:54 10.71.50.0 u96501126 [10.71.50.0|get|1|3602|0|0|0|2f6373732f7374796c654564742e637373|]
+Apr 10 15:02:54 10.71.50.0 u96501126 open "/css/teest.css" flags READ mode 0666
+Apr 10 15:02:54 10.71.50.0 u96501126 open "/css/Account.css" flags READ mode 0666
+Apr 10 15:02:54 10.71.50.0 u96501126 close "/css/teest.css" bytes read 2989 written 0
+Apr 10 15:02:54 10.71.50.0 u96501126 [10.71.50.0|get|0|2989|0|0|0|2f6373732f74656573742e637373|]
+Apr 10 15:02:54 10.71.50.0 u96501126 close "/css/Account.css" bytes read 13919 written 0
+Apr 10 15:02:54 10.71.50.0 u96501126 [10.71.50.0|get|0|13919|0|0|0|2f6373732f4163636f756e742e637373|]
+Apr 10 15:02:54 10.71.50.0 u96501126 open "/css/style.css" flags READ mode 0666
+Apr 10 15:02:54 10.71.50.0 u96501126 open "/css/styleXS.css" flags READ mode 0666
+Apr 10 15:02:54 10.71.50.0 u96501126 close "/css/style.css" bytes read 1830 written 0
+Apr 10 15:02:54 10.71.50.0 u96501126 [10.71.50.0|get|0|1830|0|0|0|2f6373732f7374796c652e637373|]
+Apr 10 15:02:54 10.71.50.0 u96501126 close "/css/styleXS.css" bytes read 135 written 0
+Apr 10 15:02:54 10.71.50.0 u96501126 [10.71.50.0|get|0|135|0|0|0|2f6373732f7374796c6558532e637373|]
+Apr 10 15:02:54 10.71.50.0 u96501126 open "/css/reservation.css" flags READ mode 0666
+Apr 10 15:02:54 10.71.50.0 u96501126 open "/css/edt.css" flags READ mode 0666
+Apr 10 15:02:54 10.71.50.0 u96501126 close "/css/reservation.css" bytes read 2927 written 0
+Apr 10 15:02:54 10.71.50.0 u96501126 [10.71.50.0|get|0|2927|0|0|0|2f6373732f7265736572766174696f6e2e637373|]
+Apr 10 15:02:54 10.71.50.0 u96501126 close "/css/edt.css" bytes read 1991 written 0
+Apr 10 15:02:54 10.71.50.0 u96501126 [10.71.50.0|get|0|1991|0|0|0|2f6373732f6564742e637373|]
+Apr 10 15:02:54 10.71.50.0 u96501126 open "/css/login.css" flags READ mode 0666
+Apr 10 15:02:54 10.71.50.0 u96501126 open "/css/home.css" flags READ mode 0666
+Apr 10 15:02:54 10.71.50.0 u96501126 close "/css/login.css" bytes read 990 written 0
+Apr 10 15:02:54 10.71.50.0 u96501126 [10.71.50.0|get|0|990|0|0|0|2f6373732f6c6f67696e2e637373|]
+Apr 10 15:02:54 10.71.50.0 u96501126 close "/css/home.css" bytes read 1744 written 0
+Apr 10 15:02:54 10.71.50.0 u96501126 [10.71.50.0|get|0|1744|0|0|0|2f6373732f686f6d652e637373|]
+Apr 10 15:02:54 10.71.50.0 u96501126 open "/header/header.php" flags READ mode 0666
+Apr 10 15:02:54 10.71.50.0 u96501126 open "/images/logo.png" flags READ mode 0666
+Apr 10 15:02:54 10.71.50.0 u96501126 close "/header/header.php" bytes read 2419 written 0
+Apr 10 15:02:54 10.71.50.0 u96501126 [10.71.50.0|get|0|2419|0|0|0|2f6865616465722f6865616465722e706870|]
+Apr 10 15:02:54 10.71.50.0 u96501126 close "/images/logo.png" bytes read 11151 written 0
+Apr 10 15:02:54 10.71.50.0 u96501126 [10.71.50.0|get|0|11151|0|0|0|2f696d616765732f6c6f676f2e706e67|]
+Apr 10 15:02:54 10.71.50.0 u96501126 open "/images/salle.jpg" flags READ mode 0666
+Apr 10 15:02:55 10.71.50.0 u96501126 open "/images/salleInfo.jpg" flags READ mode 0666
+Apr 10 15:02:55 10.71.50.0 u96501126 close "/images/salle.jpg" bytes read 175453 written 0
+Apr 10 15:02:55 10.71.50.0 u96501126 [10.71.50.0|get|1|175453|0|0|0|2f696d616765732f73616c6c652e6a7067|]
+Apr 10 15:02:55 10.71.50.0 u96501126 close "/images/salleInfo.jpg" bytes read 136822 written 0
+Apr 10 15:02:55 10.71.50.0 u96501126 [10.71.50.0|get|0|136822|0|0|0|2f696d616765732f73616c6c65496e666f2e6a7067|]
+Apr 10 15:02:55 10.71.50.0 u96501126 open "/images/logo1.png" flags READ mode 0666
+Apr 10 15:02:55 10.71.50.0 u96501126 open "/images/logo.jpg" flags READ mode 0666
+Apr 10 15:02:55 10.71.50.0 u96501126 close "/images/logo.jpg" bytes read 43259 written 0
+Apr 10 15:02:55 10.71.50.0 u96501126 [10.71.50.0|get|0|43259|0|0|0|2f696d616765732f6c6f676f2e6a7067|]
+Apr 10 15:02:55 10.71.50.0 u96501126 close "/images/logo1.png" bytes read 206760 written 0
+Apr 10 15:02:55 10.71.50.0 u96501126 [10.71.50.0|get|0|206760|0|0|0|2f696d616765732f6c6f676f312e706e67|]
+Apr 10 15:02:55 10.71.50.0 u96501126 open "/images/valentin.jpg" flags READ mode 0666
+Apr 10 15:02:55 10.71.50.0 u96501126 open "/images/soon.jpg" flags READ mode 0666
+Apr 10 15:02:55 10.71.50.0 u96501126 close "/images/soon.jpg" bytes read 516566 written 0
+Apr 10 15:02:55 10.71.50.0 u96501126 [10.71.50.0|get|0|516566|0|0|0|2f696d616765732f736f6f6e2e6a7067|]
+Apr 10 15:02:55 10.71.50.0 u96501126 open "/images/technology.jpg" flags READ mode 0666
+Apr 10 15:02:56 10.71.50.0 u96501126 close "/images/valentin.jpg" bytes read 2258978 written 0
+Apr 10 15:02:56 10.71.50.0 u96501126 [10.71.50.0|get|1|2258978|0|0|0|2f696d616765732f76616c656e74696e2e6a7067|]
+Apr 10 15:02:56 10.71.50.0 u96501126 close "/images/technology.jpg" bytes read 1772123 written 0
+Apr 10 15:02:56 10.71.50.0 u96501126 [10.71.50.0|get|1|1772123|0|0|0|2f696d616765732f746563686e6f6c6f67792e6a7067|]
+Apr 10 15:02:56 10.71.50.0 u96501126 open "/models/model.php" flags READ mode 0666
+Apr 10 15:02:56 10.71.50.0 u96501126 close "/models/model.php" bytes read 3555 written 0
+Apr 10 15:02:56 10.71.50.0 u96501126 [10.71.50.0|get|0|3555|0|0|0|2f6d6f64656c732f6d6f64656c2e706870|]
+Apr 10 15:02:56 10.71.50.0 u96501126 open "/views/loginView.php" flags READ mode 0666
+Apr 10 15:02:56 10.71.50.0 u96501126 close "/views/loginView.php" bytes read 2047 written 0
+Apr 10 15:02:56 10.71.50.0 u96501126 [10.71.50.0|get|0|2047|0|0|0|2f76696577732f6c6f67696e566965772e706870|]
+Apr 10 15:02:56 10.71.50.0 u96501126 open "/views/homeView.php" flags READ mode 0666
+Apr 10 15:02:56 10.71.50.0 u96501126 open "/views/edtView.php" flags READ mode 0666
+Apr 10 15:02:56 10.71.50.0 u96501126 close "/views/homeView.php" bytes read 60 written 0
+Apr 10 15:02:56 10.71.50.0 u96501126 [10.71.50.0|get|0|60|0|0|0|2f76696577732f686f6d65566965772e706870|]
+Apr 10 15:02:56 10.71.50.0 u96501126 close "/views/edtView.php" bytes read 3092 written 0
+Apr 10 15:02:56 10.71.50.0 u96501126 [10.71.50.0|get|0|3092|0|0|0|2f76696577732f656474566965772e706870|]
+Apr 10 15:02:56 10.71.50.0 u96501126 open "/views/myAccountView.php" flags READ mode 0666
+Apr 10 15:02:56 10.71.50.0 u96501126 open "/views/reserveView.php" flags READ mode 0666
+Apr 10 15:02:56 10.71.50.0 u96501126 close "/views/myAccountView.php" bytes read 5970 written 0
+Apr 10 15:02:56 10.71.50.0 u96501126 [10.71.50.0|get|0|5970|0|0|0|2f76696577732f6d794163636f756e74566965772e706870|]
+Apr 10 15:02:57 10.71.50.0 u96501126 close "/views/reserveView.php" bytes read 1066 written 0
+Apr 10 15:02:57 10.71.50.0 u96501126 [10.71.50.0|get|1|1066|0|0|0|2f76696577732f72657365727665566965772e706870|]
+Apr 10 15:02:57 10.71.50.0 u96501126 open "/views/reservationView.php" flags READ mode 0666
+Apr 10 15:02:57 10.71.50.0 u96501126 open "/views/errorView.php" flags READ mode 0666
+Apr 10 15:02:57 10.71.50.0 u96501126 close "/views/reservationView.php" bytes read 3363 written 0
+Apr 10 15:02:57 10.71.50.0 u96501126 [10.71.50.0|get|0|3363|0|0|0|2f76696577732f7265736572766174696f6e566965772e706870|]
+Apr 10 15:02:57 10.71.50.0 u96501126 close "/views/errorView.php" bytes read 1133 written 0
+Apr 10 15:02:57 10.71.50.0 u96501126 [10.71.50.0|get|0|1133|0|0|0|2f76696577732f6572726f72566965772e706870|]
+Apr 10 15:03:57 10.71.50.0 u96501126 session closed for local user u96501126 from [10.71.50.0]
+Apr 10 15:03:57 10.71.50.0 u96501126 Connection closed by 10.71.50.0
+Apr 10 15:03:57 10.71.50.0 u96501126 session closed for local user u96501126 from [10.71.50.0]
+Apr 10 15:03:57 10.71.50.0 u96501126 Connection closed by 10.71.50.0
+Apr 10 15:10:38 10.71.50.0 u96501126 remove name "/views/reservationView.php"
+Apr 10 15:10:38 10.71.50.0 u96501126 [10.71.50.0|rm|0|0|0|0|0|2f76696577732f7265736572766174696f6e566965772e706870|]
+Apr 10 15:10:40 10.71.50.0 u96501126 Connection from 10.71.50.0 port 27456 on 82.165.83.168 port 22
+Apr 10 15:10:40 10.71.50.0 u96501126 Accepted password for u96501126 from 10.71.50.0 port 27456 ssh2
+Apr 10 15:10:40 10.71.50.0 u96501126 Starting session: subsystem 'sftp' for u96501126 from 10.71.50.0 port 27456
+Apr 10 15:10:40 10.71.50.0 u96501126 session opened for local user u96501126 from [10.71.50.0]
+Apr 10 15:10:40 10.71.50.0 u96501126 sent status No such file
+Apr 10 15:10:40 10.71.50.0 u96501126 open "/views/reservationView.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Apr 10 15:10:40 10.71.50.0 u96501126 close "/views/reservationView.php" bytes read 0 written 3361
+Apr 10 15:10:40 10.71.50.0 u96501126 [10.71.50.0|put|0|3361|0|0|0|2f76696577732f7265736572766174696f6e566965772e706870|]
+Apr 10 15:11:40 10.71.50.0 u96501126 session closed for local user u96501126 from [10.71.50.0]
+Apr 10 15:11:40 10.71.50.0 u96501126 Connection closed by 10.71.50.0
+Apr 10 15:12:21 10.71.50.0 u96501126 remove name "/views/reservationView.php"
+Apr 10 15:12:21 10.71.50.0 u96501126 [10.71.50.0|rm|0|0|0|0|0|2f76696577732f7265736572766174696f6e566965772e706870|]
+Apr 10 15:12:22 10.71.50.0 u96501126 Connection from 10.71.50.0 port 62242 on 82.165.83.168 port 22
+Apr 10 15:12:23 10.71.50.0 u96501126 Accepted password for u96501126 from 10.71.50.0 port 62242 ssh2
+Apr 10 15:12:23 10.71.50.0 u96501126 Starting session: subsystem 'sftp' for u96501126 from 10.71.50.0 port 62242
+Apr 10 15:12:23 10.71.50.0 u96501126 session opened for local user u96501126 from [10.71.50.0]
+Apr 10 15:12:23 10.71.50.0 u96501126 sent status No such file
+Apr 10 15:12:23 10.71.50.0 u96501126 open "/views/reservationView.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Apr 10 15:12:23 10.71.50.0 u96501126 close "/views/reservationView.php" bytes read 0 written 3354
+Apr 10 15:12:23 10.71.50.0 u96501126 [10.71.50.0|put|0|3354|0|0|0|2f76696577732f7265736572766174696f6e566965772e706870|]
+Apr 10 15:13:23 10.71.50.0 u96501126 session closed for local user u96501126 from [10.71.50.0]
+Apr 10 15:13:23 10.71.50.0 u96501126 Connection closed by 10.71.50.0
+Apr 10 15:18:21 10.71.50.0 u96501126 Connection from 10.71.50.0 port 57148 on 82.165.83.168 port 22
+Apr 10 15:18:21 10.71.50.0 u96501126 Accepted password for u96501126 from 10.71.50.0 port 57148 ssh2
+Apr 10 15:18:21 10.71.50.0 u96501126 Starting session: subsystem 'sftp' for u96501126 from 10.71.50.0 port 57148
+Apr 10 15:18:21 10.71.50.0 u96501126 session opened for local user u96501126 from [10.71.50.0]
+Apr 10 15:18:21 10.71.50.0 u96501126 open "/logs/info.php5" flags READ mode 0666
+Apr 10 15:18:21 10.71.50.0 u96501126 close "/logs/info.php5" bytes read 21 written 0
+Apr 10 15:18:21 10.71.50.0 u96501126 [10.71.50.0|get|0|21|0|0|0|2f6c6f67732f696e666f2e70687035|]
+Apr 10 15:19:22 10.71.50.0 u96501126 session closed for local user u96501126 from [10.71.50.0]
+Apr 10 15:19:22 10.71.50.0 u96501126 Connection closed by 10.71.50.0
+Apr 10 15:23:45 10.71.50.0 u96501126 remove name "/controllers/controller.php"
+Apr 10 15:23:45 10.71.50.0 u96501126 [10.71.50.0|rm|0|0|0|0|0|2f636f6e74726f6c6c6572732f636f6e74726f6c6c65722e706870|]
+Apr 10 15:23:47 10.71.50.0 u96501126 Connection from 10.71.50.0 port 20930 on 82.165.83.168 port 22
+Apr 10 15:23:47 10.71.50.0 u96501126 Accepted password for u96501126 from 10.71.50.0 port 20930 ssh2
+Apr 10 15:23:47 10.71.50.0 u96501126 Starting session: subsystem 'sftp' for u96501126 from 10.71.50.0 port 20930
+Apr 10 15:23:47 10.71.50.0 u96501126 session opened for local user u96501126 from [10.71.50.0]
+Apr 10 15:23:47 10.71.50.0 u96501126 sent status No such file
+Apr 10 15:23:48 10.71.50.0 u96501126 open "/controllers/controller.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Apr 10 15:23:48 10.71.50.0 u96501126 close "/controllers/controller.php" bytes read 0 written 2288
+Apr 10 15:23:48 10.71.50.0 u96501126 [10.71.50.0|put|0|2288|0|0|0|2f636f6e74726f6c6c6572732f636f6e74726f6c6c65722e706870|]
+Apr 10 15:24:48 10.71.50.0 u96501126 session closed for local user u96501126 from [10.71.50.0]
+Apr 10 15:24:48 10.71.50.0 u96501126 Connection closed by 10.71.50.0
+Apr 10 15:26:25 10.71.50.0 u96501126 remove name "/views/edtView.php"
+Apr 10 15:26:25 10.71.50.0 u96501126 [10.71.50.0|rm|0|0|0|0|0|2f76696577732f656474566965772e706870|]
+Apr 10 15:26:27 10.71.50.0 u96501126 Connection from 10.71.50.0 port 26926 on 82.165.83.168 port 22
+Apr 10 15:26:27 10.71.50.0 u96501126 Accepted password for u96501126 from 10.71.50.0 port 26926 ssh2
+Apr 10 15:26:27 10.71.50.0 u96501126 Starting session: subsystem 'sftp' for u96501126 from 10.71.50.0 port 26926
+Apr 10 15:26:27 10.71.50.0 u96501126 session opened for local user u96501126 from [10.71.50.0]
+Apr 10 15:26:28 10.71.50.0 u96501126 sent status No such file
+Apr 10 15:26:28 10.71.50.0 u96501126 open "/views/edtView.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Apr 10 15:26:28 10.71.50.0 u96501126 close "/views/edtView.php" bytes read 0 written 3082
+Apr 10 15:26:28 10.71.50.0 u96501126 [10.71.50.0|put|0|3082|0|0|0|2f76696577732f656474566965772e706870|]
+Apr 10 15:26:54 10.71.50.0 u96501126 remove name "/views/edtView.php"
+Apr 10 15:26:54 10.71.50.0 u96501126 [10.71.50.0|rm|0|0|0|0|0|2f76696577732f656474566965772e706870|]
+Apr 10 15:26:55 10.71.50.0 u96501126 sent status No such file
+Apr 10 15:26:55 10.71.50.0 u96501126 open "/views/edtView.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Apr 10 15:26:55 10.71.50.0 u96501126 close "/views/edtView.php" bytes read 0 written 3082
+Apr 10 15:26:55 10.71.50.0 u96501126 [10.71.50.0|put|0|3082|0|0|0|2f76696577732f656474566965772e706870|]
+Apr 10 15:27:55 10.71.50.0 u96501126 session closed for local user u96501126 from [10.71.50.0]
+Apr 10 15:27:56 10.71.50.0 u96501126 Connection closed by 10.71.50.0
+Apr 10 15:29:44 10.71.50.0 u96501126 remove name "/controllers/controller.php"
+Apr 10 15:29:44 10.71.50.0 u96501126 [10.71.50.0|rm|0|0|0|0|0|2f636f6e74726f6c6c6572732f636f6e74726f6c6c65722e706870|]
+Apr 10 15:29:45 10.71.50.0 u96501126 Connection from 10.71.50.0 port 32452 on 82.165.83.168 port 22
+Apr 10 15:29:46 10.71.50.0 u96501126 Accepted password for u96501126 from 10.71.50.0 port 32452 ssh2
+Apr 10 15:29:46 10.71.50.0 u96501126 Starting session: subsystem 'sftp' for u96501126 from 10.71.50.0 port 32452
+Apr 10 15:29:46 10.71.50.0 u96501126 session opened for local user u96501126 from [10.71.50.0]
+Apr 10 15:29:46 10.71.50.0 u96501126 sent status No such file
+Apr 10 15:29:46 10.71.50.0 u96501126 open "/controllers/controller.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Apr 10 15:29:46 10.71.50.0 u96501126 close "/controllers/controller.php" bytes read 0 written 2264
+Apr 10 15:29:46 10.71.50.0 u96501126 [10.71.50.0|put|0|2264|0|0|0|2f636f6e74726f6c6c6572732f636f6e74726f6c6c65722e706870|]
+Apr 10 15:30:46 10.71.50.0 u96501126 session closed for local user u96501126 from [10.71.50.0]
+Apr 10 15:30:46 10.71.50.0 u96501126 Connection closed by 10.71.50.0
+Apr 10 15:36:01 10.71.50.0 u96501126 remove name "/controllers/controller.php"
+Apr 10 15:36:01 10.71.50.0 u96501126 [10.71.50.0|rm|0|0|0|0|0|2f636f6e74726f6c6c6572732f636f6e74726f6c6c65722e706870|]
+Apr 10 15:36:03 10.71.50.0 u96501126 Connection from 10.71.50.0 port 60304 on 82.165.83.168 port 22
+Apr 10 15:36:03 10.71.50.0 u96501126 Accepted password for u96501126 from 10.71.50.0 port 60304 ssh2
+Apr 10 15:36:03 10.71.50.0 u96501126 Starting session: subsystem 'sftp' for u96501126 from 10.71.50.0 port 60304
+Apr 10 15:36:03 10.71.50.0 u96501126 session opened for local user u96501126 from [10.71.50.0]
+Apr 10 15:36:03 10.71.50.0 u96501126 sent status No such file
+Apr 10 15:36:03 10.71.50.0 u96501126 open "/controllers/controller.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Apr 10 15:36:03 10.71.50.0 u96501126 close "/controllers/controller.php" bytes read 0 written 2260
+Apr 10 15:36:03 10.71.50.0 u96501126 [10.71.50.0|put|0|2260|0|0|0|2f636f6e74726f6c6c6572732f636f6e74726f6c6c65722e706870|]
+Apr 10 15:36:08 10.71.50.0 u96501126 remove name "/index.php"
+Apr 10 15:36:09 10.71.50.0 u96501126 [10.71.50.0|rm|0|0|0|0|0|2f696e6465782e706870|]
+Apr 10 15:36:10 10.71.50.0 u96501126 sent status No such file
+Apr 10 15:36:10 10.71.50.0 u96501126 open "/index.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Apr 10 15:36:10 10.71.50.0 u96501126 close "/index.php" bytes read 0 written 1386
+Apr 10 15:36:10 10.71.50.0 u96501126 [10.71.50.0|put|0|1386|0|0|0|2f696e6465782e706870|]
+Apr 10 15:37:06 10.71.50.0 u96501126 remove name "/index.php"
+Apr 10 15:37:06 10.71.50.0 u96501126 [10.71.50.0|rm|0|0|0|0|0|2f696e6465782e706870|]
+Apr 10 15:37:07 10.71.50.0 u96501126 sent status No such file
+Apr 10 15:37:07 10.71.50.0 u96501126 open "/index.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Apr 10 15:37:07 10.71.50.0 u96501126 close "/index.php" bytes read 0 written 1374
+Apr 10 15:37:07 10.71.50.0 u96501126 [10.71.50.0|put|0|1374|0|0|0|2f696e6465782e706870|]
+Apr 10 15:38:07 10.71.50.0 u96501126 session closed for local user u96501126 from [10.71.50.0]
+Apr 10 15:38:07 10.71.50.0 u96501126 Connection closed by 10.71.50.0
+Apr 10 16:28:44 10.71.50.0 u96501126 Connection closed by 10.71.50.0
+Apr 10 16:28:44 10.71.50.0 u96501126 session closed for local user u96501126 from [10.71.50.0]
+Apr 10 17:19:16 10.71.50.0 u96501126 Connection from 10.71.50.0 port 32514 on 82.165.83.168 port 22
+Apr 10 17:19:17 10.71.50.0 u96501126 Accepted password for u96501126 from 10.71.50.0 port 32514 ssh2
+Apr 10 17:19:17 10.71.50.0 u96501126 Starting session: subsystem 'sftp' for u96501126 from 10.71.50.0 port 32514
+Apr 10 17:19:17 10.71.50.0 u96501126 session opened for local user u96501126 from [10.71.50.0]
+Apr 10 17:19:24 10.71.50.0 u96501126 remove name "/index.php"
+Apr 10 17:19:24 10.71.50.0 u96501126 [10.71.50.0|rm|0|0|0|0|0|2f696e6465782e706870|]
+Apr 10 17:19:28 10.71.50.0 u96501126 Connection from 10.71.50.0 port 47350 on 82.165.83.168 port 22
+Apr 10 17:19:29 10.71.50.0 u96501126 Accepted password for u96501126 from 10.71.50.0 port 47350 ssh2
+Apr 10 17:19:29 10.71.50.0 u96501126 Starting session: subsystem 'sftp' for u96501126 from 10.71.50.0 port 47350
+Apr 10 17:19:29 10.71.50.0 u96501126 session opened for local user u96501126 from [10.71.50.0]
+Apr 10 17:19:29 10.71.50.0 u96501126 sent status No such file
+Apr 10 17:19:29 10.71.50.0 u96501126 open "/index.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Apr 10 17:19:29 10.71.50.0 u96501126 close "/index.php" bytes read 0 written 1386
+Apr 10 17:19:29 10.71.50.0 u96501126 [10.71.50.0|put|0|1386|0|0|0|2f696e6465782e706870|]
+Apr 10 17:20:14 10.71.50.0 u96501126 remove name "/controllers/controller.php"
+Apr 10 17:20:14 10.71.50.0 u96501126 [10.71.50.0|rm|0|0|0|0|0|2f636f6e74726f6c6c6572732f636f6e74726f6c6c65722e706870|]
+Apr 10 17:20:29 10.71.50.0 u96501126 session closed for local user u96501126 from [10.71.50.0]
+Apr 10 17:20:29 10.71.50.0 u96501126 Connection closed by 10.71.50.0
+Apr 10 17:20:33 10.71.50.0 u96501126 Connection from 10.71.50.0 port 17896 on 82.165.83.168 port 22
+Apr 10 17:20:34 10.71.50.0 u96501126 Accepted password for u96501126 from 10.71.50.0 port 17896 ssh2
+Apr 10 17:20:34 10.71.50.0 u96501126 Starting session: subsystem 'sftp' for u96501126 from 10.71.50.0 port 17896
+Apr 10 17:20:34 10.71.50.0 u96501126 session opened for local user u96501126 from [10.71.50.0]
+Apr 10 17:20:36 10.71.50.0 u96501126 remove name "/index.php"
+Apr 10 17:20:36 10.71.50.0 u96501126 [10.71.50.0|rm|0|0|0|0|0|2f696e6465782e706870|]
+Apr 10 17:20:39 10.71.50.0 u96501126 Connection from 10.71.50.0 port 26024 on 82.165.83.168 port 22
+Apr 10 17:20:40 10.71.50.0 u96501126 Accepted password for u96501126 from 10.71.50.0 port 26024 ssh2
+Apr 10 17:20:40 10.71.50.0 u96501126 Starting session: subsystem 'sftp' for u96501126 from 10.71.50.0 port 26024
+Apr 10 17:20:40 10.71.50.0 u96501126 session opened for local user u96501126 from [10.71.50.0]
+Apr 10 17:20:41 10.71.50.0 u96501126 sent status No such file
+Apr 10 17:20:41 10.71.50.0 u96501126 open "/index.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Apr 10 17:20:41 10.71.50.0 u96501126 close "/index.php" bytes read 0 written 1386
+Apr 10 17:20:41 10.71.50.0 u96501126 [10.71.50.0|put|0|1386|0|0|0|2f696e6465782e706870|]
+Apr 10 17:21:02 10.71.50.0 u96501126 sent status No such file
+Apr 10 17:21:02 10.71.50.0 u96501126 open "/controllers/controller.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Apr 10 17:21:02 10.71.50.0 u96501126 close "/controllers/controller.php" bytes read 0 written 2194
+Apr 10 17:21:02 10.71.50.0 u96501126 [10.71.50.0|put|0|2194|0|0|0|2f636f6e74726f6c6c6572732f636f6e74726f6c6c65722e706870|]
+Apr 10 17:22:02 10.71.50.0 u96501126 session closed for local user u96501126 from [10.71.50.0]
+Apr 10 17:22:02 10.71.50.0 u96501126 Connection closed by 10.71.50.0
+Apr 10 17:22:27 10.71.50.0 u96501126 remove name "/controllers/controller.php"
+Apr 10 17:22:27 10.71.50.0 u96501126 [10.71.50.0|rm|0|0|0|0|0|2f636f6e74726f6c6c6572732f636f6e74726f6c6c65722e706870|]
+Apr 10 17:26:06 10.71.50.0 u96501126 Connection from 10.71.50.0 port 39782 on 82.165.83.168 port 22
+Apr 10 17:26:07 10.71.50.0 u96501126 Accepted password for u96501126 from 10.71.50.0 port 39782 ssh2
+Apr 10 17:26:08 10.71.50.0 u96501126 Starting session: subsystem 'sftp' for u96501126 from 10.71.50.0 port 39782
+Apr 10 17:26:08 10.71.50.0 u96501126 session opened for local user u96501126 from [10.71.50.0]
+Apr 10 17:26:08 10.71.50.0 u96501126 sent status No such file
+Apr 10 17:26:08 10.71.50.0 u96501126 open "/controllers/controller.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Apr 10 17:26:08 10.71.50.0 u96501126 close "/controllers/controller.php" bytes read 0 written 2242
+Apr 10 17:26:08 10.71.50.0 u96501126 [10.71.50.0|put|0|2242|0|0|0|2f636f6e74726f6c6c6572732f636f6e74726f6c6c65722e706870|]
+Apr 10 17:27:08 10.71.50.0 u96501126 session closed for local user u96501126 from [10.71.50.0]
+Apr 10 17:27:08 10.71.50.0 u96501126 Connection closed by 10.71.50.0
+Apr 10 17:27:14 10.71.50.0 u96501126 remove name "/controllers/controller.php"
+Apr 10 17:27:14 10.71.50.0 u96501126 [10.71.50.0|rm|0|0|0|0|0|2f636f6e74726f6c6c6572732f636f6e74726f6c6c65722e706870|]
+Apr 10 17:27:16 10.71.50.0 u96501126 Connection from 10.71.50.0 port 13092 on 82.165.83.168 port 22
+Apr 10 17:27:17 10.71.50.0 u96501126 Accepted password for u96501126 from 10.71.50.0 port 13092 ssh2
+Apr 10 17:27:17 10.71.50.0 u96501126 Starting session: subsystem 'sftp' for u96501126 from 10.71.50.0 port 13092
+Apr 10 17:27:17 10.71.50.0 u96501126 session opened for local user u96501126 from [10.71.50.0]
+Apr 10 17:27:18 10.71.50.0 u96501126 sent status No such file
+Apr 10 17:27:18 10.71.50.0 u96501126 open "/controllers/controller.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Apr 10 17:27:18 10.71.50.0 u96501126 close "/controllers/controller.php" bytes read 0 written 2224
+Apr 10 17:27:18 10.71.50.0 u96501126 [10.71.50.0|put|0|2224|0|0|0|2f636f6e74726f6c6c6572732f636f6e74726f6c6c65722e706870|]
+Apr 10 17:28:47 10.71.50.0 u96501126 Connection closed by 10.71.50.0
+Apr 10 17:28:47 10.71.50.0 u96501126 session closed for local user u96501126 from [10.71.50.0]
+Apr 10 17:28:51 10.71.50.0 u96501126 Connection closed by 10.71.50.0
+Apr 10 17:28:51 10.71.50.0 u96501126 session closed for local user u96501126 from [10.71.50.0]
+Apr 10 17:28:59 10.71.50.0 u96501126 Connection closed by 10.71.50.0
+Apr 10 17:28:59 10.71.50.0 u96501126 session closed for local user u96501126 from [10.71.50.0]
+Apr 10 18:51:37 10.71.50.0 u96501126 Connection from 10.71.50.0 port 37838 on 82.165.83.168 port 22
+Apr 10 18:51:38 10.71.50.0 u96501126 Accepted password for u96501126 from 10.71.50.0 port 37838 ssh2
+Apr 10 18:51:38 10.71.50.0 u96501126 Starting session: subsystem 'sftp' for u96501126 from 10.71.50.0 port 37838
+Apr 10 18:51:38 10.71.50.0 u96501126 session opened for local user u96501126 from [10.71.50.0]
+Apr 10 18:57:46 10.71.50.0 u96501126 remove name "/index.php"
+Apr 10 18:57:46 10.71.50.0 u96501126 [10.71.50.0|rm|0|0|0|0|0|2f696e6465782e706870|]
+Apr 10 18:57:49 10.71.50.0 u96501126 Connection from 10.71.50.0 port 38650 on 82.165.83.168 port 22
+Apr 10 18:57:50 10.71.50.0 u96501126 Accepted password for u96501126 from 10.71.50.0 port 38650 ssh2
+Apr 10 18:57:50 10.71.50.0 u96501126 Starting session: subsystem 'sftp' for u96501126 from 10.71.50.0 port 38650
+Apr 10 18:57:50 10.71.50.0 u96501126 session opened for local user u96501126 from [10.71.50.0]
+Apr 10 18:57:50 10.71.50.0 u96501126 sent status No such file
+Apr 10 18:57:50 10.71.50.0 u96501126 open "/index.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Apr 10 18:57:50 10.71.50.0 u96501126 close "/index.php" bytes read 0 written 1374
+Apr 10 18:57:50 10.71.50.0 u96501126 [10.71.50.0|put|0|1374|0|0|0|2f696e6465782e706870|]
+Apr 10 18:58:50 10.71.50.0 u96501126 session closed for local user u96501126 from [10.71.50.0]
+Apr 10 18:58:50 10.71.50.0 u96501126 Connection closed by 10.71.50.0
+Apr 10 18:59:44 10.71.50.0 u96501126 remove name "/index.php"
+Apr 10 18:59:44 10.71.50.0 u96501126 [10.71.50.0|rm|0|0|0|0|0|2f696e6465782e706870|]
+Apr 10 18:59:45 10.71.50.0 u96501126 Connection from 10.71.50.0 port 27620 on 82.165.83.168 port 22
+Apr 10 18:59:46 10.71.50.0 u96501126 Accepted password for u96501126 from 10.71.50.0 port 27620 ssh2
+Apr 10 18:59:46 10.71.50.0 u96501126 Starting session: subsystem 'sftp' for u96501126 from 10.71.50.0 port 27620
+Apr 10 18:59:46 10.71.50.0 u96501126 session opened for local user u96501126 from [10.71.50.0]
+Apr 10 18:59:46 10.71.50.0 u96501126 sent status No such file
+Apr 10 18:59:46 10.71.50.0 u96501126 open "/index.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Apr 10 18:59:46 10.71.50.0 u96501126 close "/index.php" bytes read 0 written 1386
+Apr 10 18:59:46 10.71.50.0 u96501126 [10.71.50.0|put|0|1386|0|0|0|2f696e6465782e706870|]
+Apr 10 19:00:46 10.71.50.0 u96501126 session closed for local user u96501126 from [10.71.50.0]
+Apr 10 19:00:46 10.71.50.0 u96501126 Connection closed by 10.71.50.0
+Apr 10 19:03:19 10.71.50.0 u96501126 remove name "/controllers/controller.php"
+Apr 10 19:03:19 10.71.50.0 u96501126 [10.71.50.0|rm|0|0|0|0|0|2f636f6e74726f6c6c6572732f636f6e74726f6c6c65722e706870|]
+Apr 10 19:03:22 10.71.50.0 u96501126 Connection from 10.71.50.0 port 31904 on 82.165.83.168 port 22
+Apr 10 19:03:22 10.71.50.0 u96501126 Accepted password for u96501126 from 10.71.50.0 port 31904 ssh2
+Apr 10 19:03:22 10.71.50.0 u96501126 Starting session: subsystem 'sftp' for u96501126 from 10.71.50.0 port 31904
+Apr 10 19:03:22 10.71.50.0 u96501126 session opened for local user u96501126 from [10.71.50.0]
+Apr 10 19:03:22 10.71.50.0 u96501126 sent status No such file
+Apr 10 19:03:22 10.71.50.0 u96501126 open "/controllers/controller.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Apr 10 19:03:23 10.71.50.0 u96501126 close "/controllers/controller.php" bytes read 0 written 2172
+Apr 10 19:03:23 10.71.50.0 u96501126 [10.71.50.0|put|1|2172|0|0|0|2f636f6e74726f6c6c6572732f636f6e74726f6c6c65722e706870|]
+Apr 10 19:03:52 10.71.50.0 u96501126 Connection closed by 10.71.50.0
+Apr 10 19:03:52 10.71.50.0 u96501126 Connection closed by 10.71.50.0
+Apr 10 19:03:52 10.71.50.0 u96501126 session closed for local user u96501126 from [10.71.50.0]
+Apr 10 19:03:52 10.71.50.0 u96501126 session closed for local user u96501126 from [10.71.50.0]
+Apr 12 08:06:57 10.71.50.0 u96501126 Connection from 10.71.50.0 port 35280 on 82.165.83.168 port 22
+Apr 12 08:06:59 10.71.50.0 u96501126 Accepted password for u96501126 from 10.71.50.0 port 35280 ssh2
+Apr 12 08:06:59 10.71.50.0 u96501126 Starting session: subsystem 'sftp' for u96501126 from 10.71.50.0 port 35280
+Apr 12 08:06:59 10.71.50.0 u96501126 session opened for local user u96501126 from [10.71.50.0]
+Apr 12 08:09:57 10.71.50.0 u96501126 remove name "/views/myAccountView.php"
+Apr 12 08:09:57 10.71.50.0 u96501126 [10.71.50.0|rm|0|0|0|0|0|2f76696577732f6d794163636f756e74566965772e706870|]
+Apr 12 08:09:59 10.71.50.0 u96501126 Connection from 10.71.50.0 port 43924 on 82.165.83.168 port 22
+Apr 12 08:09:59 10.71.50.0 u96501126 Accepted password for u96501126 from 10.71.50.0 port 43924 ssh2
+Apr 12 08:09:59 10.71.50.0 u96501126 Starting session: subsystem 'sftp' for u96501126 from 10.71.50.0 port 43924
+Apr 12 08:09:59 10.71.50.0 u96501126 session opened for local user u96501126 from [10.71.50.0]
+Apr 12 08:09:59 10.71.50.0 u96501126 sent status No such file
+Apr 12 08:09:59 10.71.50.0 u96501126 open "/views/myAccountView.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Apr 12 08:09:59 10.71.50.0 u96501126 close "/views/myAccountView.php" bytes read 0 written 5970
+Apr 12 08:09:59 10.71.50.0 u96501126 [10.71.50.0|put|0|5970|0|0|0|2f76696577732f6d794163636f756e74566965772e706870|]
+Apr 12 08:10:05 10.71.50.0 u96501126 remove name "/index.php"
+Apr 12 08:10:05 10.71.50.0 u96501126 [10.71.50.0|rm|0|0|0|0|0|2f696e6465782e706870|]
+Apr 12 08:10:07 10.71.50.0 u96501126 sent status No such file
+Apr 12 08:10:07 10.71.50.0 u96501126 open "/index.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Apr 12 08:10:07 10.71.50.0 u96501126 close "/index.php" bytes read 0 written 1387
+Apr 12 08:10:07 10.71.50.0 u96501126 [10.71.50.0|put|0|1387|0|0|0|2f696e6465782e706870|]
+Apr 12 08:10:33 10.71.50.0 u96501126 remove name "/controllers/controller.php"
+Apr 12 08:10:33 10.71.50.0 u96501126 [10.71.50.0|rm|0|0|0|0|0|2f636f6e74726f6c6c6572732f636f6e74726f6c6c65722e706870|]
+Apr 12 08:10:34 10.71.50.0 u96501126 sent status No such file
+Apr 12 08:10:34 10.71.50.0 u96501126 open "/controllers/controller.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Apr 12 08:10:34 10.71.50.0 u96501126 close "/controllers/controller.php" bytes read 0 written 2099
+Apr 12 08:10:34 10.71.50.0 u96501126 [10.71.50.0|put|0|2099|0|0|0|2f636f6e74726f6c6c6572732f636f6e74726f6c6c65722e706870|]
+Apr 12 08:11:34 10.71.50.0 u96501126 session closed for local user u96501126 from [10.71.50.0]
+Apr 12 08:11:34 10.71.50.0 u96501126 Connection closed by 10.71.50.0
+Apr 12 08:11:43 10.71.50.0 u96501126 remove name "/controllers/controller.php"
+Apr 12 08:11:43 10.71.50.0 u96501126 [10.71.50.0|rm|0|0|0|0|0|2f636f6e74726f6c6c6572732f636f6e74726f6c6c65722e706870|]
+Apr 12 08:11:46 10.71.50.0 u96501126 Connection from 10.71.50.0 port 42252 on 82.165.83.168 port 22
+Apr 12 08:11:46 10.71.50.0 u96501126 Accepted password for u96501126 from 10.71.50.0 port 42252 ssh2
+Apr 12 08:11:46 10.71.50.0 u96501126 Starting session: subsystem 'sftp' for u96501126 from 10.71.50.0 port 42252
+Apr 12 08:11:46 10.71.50.0 u96501126 session opened for local user u96501126 from [10.71.50.0]
+Apr 12 08:11:46 10.71.50.0 u96501126 sent status No such file
+Apr 12 08:11:46 10.71.50.0 u96501126 open "/controllers/controller.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Apr 12 08:11:46 10.71.50.0 u96501126 close "/controllers/controller.php" bytes read 0 written 2098
+Apr 12 08:11:46 10.71.50.0 u96501126 [10.71.50.0|put|0|2098|0|0|0|2f636f6e74726f6c6c6572732f636f6e74726f6c6c65722e706870|]
+Apr 12 08:11:47 10.71.50.0 u96501126 open "/controllers/controller.php" flags READ mode 0666
+Apr 12 08:11:47 10.71.50.0 u96501126 close "/controllers/controller.php" bytes read 2098 written 0
+Apr 12 08:11:47 10.71.50.0 u96501126 [10.71.50.0|get|0|2098|0|0|0|2f636f6e74726f6c6c6572732f636f6e74726f6c6c65722e706870|]
+Apr 12 08:12:04 10.71.50.0 u96501126 remove name "/index.php"
+Apr 12 08:12:04 10.71.50.0 u96501126 [10.71.50.0|rm|0|0|0|0|0|2f696e6465782e706870|]
+Apr 12 08:12:05 10.71.50.0 u96501126 sent status No such file
+Apr 12 08:12:05 10.71.50.0 u96501126 open "/index.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Apr 12 08:12:05 10.71.50.0 u96501126 close "/index.php" bytes read 0 written 1386
+Apr 12 08:12:05 10.71.50.0 u96501126 [10.71.50.0|put|0|1386|0|0|0|2f696e6465782e706870|]
+Apr 12 08:13:05 10.71.50.0 u96501126 session closed for local user u96501126 from [10.71.50.0]
+Apr 12 08:13:05 10.71.50.0 u96501126 Connection closed by 10.71.50.0
+Apr 12 08:34:30 10.71.50.0 u96501126 Connection closed by 10.71.50.0
+Apr 12 08:34:30 10.71.50.0 u96501126 session closed for local user u96501126 from [10.71.50.0]
+Apr 13 12:58:51 10.71.50.0 u96501126 Connection from 10.71.50.0 port 11670 on 82.165.83.168 port 22
+Apr 13 12:58:53 10.71.50.0 u96501126 Accepted password for u96501126 from 10.71.50.0 port 11670 ssh2
+Apr 13 12:58:53 10.71.50.0 u96501126 Starting session: subsystem 'sftp' for u96501126 from 10.71.50.0 port 11670
+Apr 13 12:58:53 10.71.50.0 u96501126 session opened for local user u96501126 from [10.71.50.0]
+Apr 13 12:59:06 10.71.50.0 u96501126 Connection from 10.71.50.0 port 26228 on 82.165.83.168 port 22
+Apr 13 12:59:07 10.71.50.0 u96501126 Accepted password for u96501126 from 10.71.50.0 port 26228 ssh2
+Apr 13 12:59:06 10.71.50.0 u96501126 Connection from 10.71.50.0 port 26242 on 82.165.83.168 port 22
+Apr 13 12:59:07 10.71.50.0 u96501126 Accepted password for u96501126 from 10.71.50.0 port 26242 ssh2
+Apr 13 12:59:07 10.71.50.0 u96501126 Starting session: subsystem 'sftp' for u96501126 from 10.71.50.0 port 26228
+Apr 13 12:59:07 10.71.50.0 u96501126 Starting session: subsystem 'sftp' for u96501126 from 10.71.50.0 port 26242
+Apr 13 12:59:07 10.71.50.0 u96501126 session opened for local user u96501126 from [10.71.50.0]
+Apr 13 12:59:07 10.71.50.0 u96501126 session opened for local user u96501126 from [10.71.50.0]
+Apr 13 12:59:07 10.71.50.0 u96501126 open "/logo.png" flags READ mode 0666
+Apr 13 12:59:07 10.71.50.0 u96501126 open "/index.php" flags READ mode 0666
+Apr 13 12:59:08 10.71.50.0 u96501126 close "/index.php" bytes read 1386 written 0
+Apr 13 12:59:08 10.71.50.0 u96501126 [10.71.50.0|get|1|1386|0|0|0|2f696e6465782e706870|]
+Apr 13 12:59:08 10.71.50.0 u96501126 close "/logo.png" bytes read 11151 written 0
+Apr 13 12:59:08 10.71.50.0 u96501126 [10.71.50.0|get|1|11151|0|0|0|2f6c6f676f2e706e67|]
+Apr 13 12:59:08 10.71.50.0 u96501126 open "/views/myAccountView.php" flags READ mode 0666
+Apr 13 12:59:08 10.71.50.0 u96501126 open "/views/edtView.php" flags READ mode 0666
+Apr 13 12:59:09 10.71.50.0 u96501126 close "/views/myAccountView.php" bytes read 5970 written 0
+Apr 13 12:59:09 10.71.50.0 u96501126 [10.71.50.0|get|1|5970|0|0|0|2f76696577732f6d794163636f756e74566965772e706870|]
+Apr 13 12:59:09 10.71.50.0 u96501126 close "/views/edtView.php" bytes read 3082 written 0
+Apr 13 12:59:09 10.71.50.0 u96501126 [10.71.50.0|get|1|3082|0|0|0|2f76696577732f656474566965772e706870|]
+Apr 13 12:59:09 10.71.50.0 u96501126 open "/views/reservationView.php" flags READ mode 0666
+Apr 13 12:59:09 10.71.50.0 u96501126 open "/views/loginView.php" flags READ mode 0666
+Apr 13 12:59:09 10.71.50.0 u96501126 close "/views/loginView.php" bytes read 2047 written 0
+Apr 13 12:59:09 10.71.50.0 u96501126 [10.71.50.0|get|0|2047|0|0|0|2f76696577732f6c6f67696e566965772e706870|]
+Apr 13 12:59:10 10.71.50.0 u96501126 close "/views/reservationView.php" bytes read 3354 written 0
+Apr 13 12:59:10 10.71.50.0 u96501126 [10.71.50.0|get|0|3354|0|0|0|2f76696577732f7265736572766174696f6e566965772e706870|]
+Apr 13 12:59:10 10.71.50.0 u96501126 open "/views/homeView.php" flags READ mode 0666
+Apr 13 12:59:10 10.71.50.0 u96501126 open "/views/reserveView.php" flags READ mode 0666
+Apr 13 12:59:10 10.71.50.0 u96501126 close "/views/reserveView.php" bytes read 1066 written 0
+Apr 13 12:59:10 10.71.50.0 u96501126 [10.71.50.0|get|0|1066|0|0|0|2f76696577732f72657365727665566965772e706870|]
+Apr 13 12:59:10 10.71.50.0 u96501126 close "/views/homeView.php" bytes read 60 written 0
+Apr 13 12:59:10 10.71.50.0 u96501126 [10.71.50.0|get|0|60|0|0|0|2f76696577732f686f6d65566965772e706870|]
+Apr 13 12:59:10 10.71.50.0 u96501126 open "/views/errorView.php" flags READ mode 0666
+Apr 13 12:59:10 10.71.50.0 u96501126 open "/models/model.php" flags READ mode 0666
+Apr 13 12:59:11 10.71.50.0 u96501126 close "/views/errorView.php" bytes read 1133 written 0
+Apr 13 12:59:11 10.71.50.0 u96501126 [10.71.50.0|get|1|1133|0|0|0|2f76696577732f6572726f72566965772e706870|]
+Apr 13 12:59:11 10.71.50.0 u96501126 close "/models/model.php" bytes read 3555 written 0
+Apr 13 12:59:11 10.71.50.0 u96501126 [10.71.50.0|get|1|3555|0|0|0|2f6d6f64656c732f6d6f64656c2e706870|]
+Apr 13 12:59:11 10.71.50.0 u96501126 open "/logs/access.log.15.1.gz" flags READ mode 0666
+Apr 13 12:59:11 10.71.50.0 u96501126 open "/logs/access.log.14.7.gz" flags READ mode 0666
+Apr 13 12:59:11 10.71.50.0 u96501126 close "/logs/access.log.15.1.gz" bytes read 337 written 0
+Apr 13 12:59:11 10.71.50.0 u96501126 [10.71.50.0|get|0|337|0|0|0|2f6c6f67732f6163636573732e6c6f672e31352e312e677a|]
+Apr 13 12:59:12 10.71.50.0 u96501126 open "/logs/access.log.14.3.gz" flags READ mode 0666
+Apr 13 12:59:12 10.71.50.0 u96501126 close "/logs/access.log.14.7.gz" bytes read 409 written 0
+Apr 13 12:59:12 10.71.50.0 u96501126 [10.71.50.0|get|1|409|0|0|0|2f6c6f67732f6163636573732e6c6f672e31342e372e677a|]
+Apr 13 12:59:12 10.71.50.0 u96501126 close "/logs/access.log.14.3.gz" bytes read 850 written 0
+Apr 13 12:59:12 10.71.50.0 u96501126 [10.71.50.0|get|0|850|0|0|0|2f6c6f67732f6163636573732e6c6f672e31342e332e677a|]
+Apr 13 12:59:12 10.71.50.0 u96501126 open "/logs/access.log.11.gz" flags READ mode 0666
+Apr 13 12:59:12 10.71.50.0 u96501126 open "/logs/access.log.10.gz" flags READ mode 0666
+Apr 13 12:59:12 10.71.50.0 u96501126 close "/logs/access.log.10.gz" bytes read 1945 written 0
+Apr 13 12:59:12 10.71.50.0 u96501126 [10.71.50.0|get|0|1945|0|0|0|2f6c6f67732f6163636573732e6c6f672e31302e677a|]
+Apr 13 12:59:13 10.71.50.0 u96501126 open "/logs/access.log.09.gz" flags READ mode 0666
+Apr 13 12:59:13 10.71.50.0 u96501126 close "/logs/access.log.11.gz" bytes read 4055 written 0
+Apr 13 12:59:13 10.71.50.0 u96501126 [10.71.50.0|get|1|4055|0|0|0|2f6c6f67732f6163636573732e6c6f672e31312e677a|]
+Apr 13 12:59:13 10.71.50.0 u96501126 close "/logs/access.log.09.gz" bytes read 6765 written 0
+Apr 13 12:59:13 10.71.50.0 u96501126 [10.71.50.0|get|0|6765|0|0|0|2f6c6f67732f6163636573732e6c6f672e30392e677a|]
+Apr 13 12:59:13 10.71.50.0 u96501126 open "/logs/sftp.log.10.gz" flags READ mode 0666
+Apr 13 12:59:13 10.71.50.0 u96501126 open "/logs/sftp.log.14.gz" flags READ mode 0666
+Apr 13 12:59:13 10.71.50.0 u96501126 close "/logs/sftp.log.14.gz" bytes read 1478 written 0
+Apr 13 12:59:13 10.71.50.0 u96501126 [10.71.50.0|get|0|1478|0|0|0|2f6c6f67732f736674702e6c6f672e31342e677a|]
+Apr 13 12:59:13 10.71.50.0 u96501126 close "/logs/sftp.log.10.gz" bytes read 2552 written 0
+Apr 13 12:59:13 10.71.50.0 u96501126 [10.71.50.0|get|0|2552|0|0|0|2f6c6f67732f736674702e6c6f672e31302e677a|]
+Apr 13 12:59:13 10.71.50.0 u96501126 open "/logs/access.log.14.1.gz" flags READ mode 0666
+Apr 13 12:59:14 10.71.50.0 u96501126 open "/logs/access.log.12.gz" flags READ mode 0666
+Apr 13 12:59:14 10.71.50.0 u96501126 close "/logs/access.log.12.gz" bytes read 22878 written 0
+Apr 13 12:59:14 10.71.50.0 u96501126 [10.71.50.0|get|0|22878|0|0|0|2f6c6f67732f6163636573732e6c6f672e31322e677a|]
+Apr 13 12:59:14 10.71.50.0 u96501126 open "/logs/sftp.log.12.gz" flags READ mode 0666
+Apr 13 12:59:14 10.71.50.0 u96501126 close "/logs/sftp.log.12.gz" bytes read 18379 written 0
+Apr 13 12:59:14 10.71.50.0 u96501126 [10.71.50.0|get|0|18379|0|0|0|2f6c6f67732f736674702e6c6f672e31322e677a|]
+Apr 13 12:59:15 10.71.50.0 u96501126 close "/logs/access.log.14.1.gz" bytes read 250 written 0
+Apr 13 12:59:15 10.71.50.0 u96501126 [10.71.50.0|get|2|250|0|0|0|2f6c6f67732f6163636573732e6c6f672e31342e312e677a|]
+Apr 13 12:59:15 10.71.50.0 u96501126 open "/logs/access.log.08.gz" flags READ mode 0666
+Apr 13 12:59:15 10.71.50.0 u96501126 open "/logs/sftp.log.09.gz" flags READ mode 0666
+Apr 13 12:59:15 10.71.50.0 u96501126 close "/logs/access.log.08.gz" bytes read 3115 written 0
+Apr 13 12:59:15 10.71.50.0 u96501126 [10.71.50.0|get|0|3115|0|0|0|2f6c6f67732f6163636573732e6c6f672e30382e677a|]
+Apr 13 12:59:15 10.71.50.0 u96501126 close "/logs/sftp.log.09.gz" bytes read 24650 written 0
+Apr 13 12:59:15 10.71.50.0 u96501126 [10.71.50.0|get|0|24650|0|0|0|2f6c6f67732f736674702e6c6f672e30392e677a|]
+Apr 13 12:59:15 10.71.50.0 u96501126 open "/logs/access.log.15.3.gz" flags READ mode 0666
+Apr 13 12:59:15 10.71.50.0 u96501126 open "/logs/access.log.13.gz" flags READ mode 0666
+Apr 13 12:59:15 10.71.50.0 u96501126 close "/logs/access.log.15.3.gz" bytes read 2459 written 0
+Apr 13 12:59:15 10.71.50.0 u96501126 [10.71.50.0|get|0|2459|0|0|0|2f6c6f67732f6163636573732e6c6f672e31352e332e677a|]
+Apr 13 12:59:16 10.71.50.0 u96501126 close "/logs/access.log.13.gz" bytes read 1610 written 0
+Apr 13 12:59:16 10.71.50.0 u96501126 [10.71.50.0|get|1|1610|0|0|0|2f6c6f67732f6163636573732e6c6f672e31332e677a|]
+Apr 13 12:59:16 10.71.50.0 u96501126 open "/logs/access.log.14.6.gz" flags READ mode 0666
+Apr 13 12:59:16 10.71.50.0 u96501126 open "/logs/access.log.07.gz" flags READ mode 0666
+Apr 13 12:59:16 10.71.50.0 u96501126 close "/logs/access.log.14.6.gz" bytes read 430 written 0
+Apr 13 12:59:16 10.71.50.0 u96501126 [10.71.50.0|get|0|430|0|0|0|2f6c6f67732f6163636573732e6c6f672e31342e362e677a|]
+Apr 13 12:59:16 10.71.50.0 u96501126 open "/logs/sftp.log.08.gz" flags READ mode 0666
+Apr 13 12:59:16 10.71.50.0 u96501126 close "/logs/sftp.log.08.gz" bytes read 5243 written 0
+Apr 13 12:59:16 10.71.50.0 u96501126 [10.71.50.0|get|0|5243|0|0|0|2f6c6f67732f736674702e6c6f672e30382e677a|]
+Apr 13 12:59:16 10.71.50.0 u96501126 close "/logs/access.log.07.gz" bytes read 2720 written 0
+Apr 13 12:59:16 10.71.50.0 u96501126 [10.71.50.0|get|0|2720|0|0|0|2f6c6f67732f6163636573732e6c6f672e30372e677a|]
+Apr 13 12:59:17 10.71.50.0 u96501126 open "/logs/access.log.15.4.gz" flags READ mode 0666
+Apr 13 12:59:17 10.71.50.0 u96501126 open "/logs/sftp.log" flags READ mode 0666
